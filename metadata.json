@@ -1,0 +1,8 @@
+{
+  "name": "Sonora",
+  "description": "Music streaming web application connected to the YouTube Music API for live search, charts, moods, playlists, lyrics, and continuous playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
